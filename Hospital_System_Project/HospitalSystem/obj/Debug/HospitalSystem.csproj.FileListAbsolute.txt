@@ -1,0 +1,36 @@
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe.config
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.pdb
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.AssemblyReference.cache
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.SuggestedBindingRedirects.cache
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form1.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Properties.Resources.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.GenerateResource.cache
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.CoreCompileInputs.cache
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.exe
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.pdb
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Main.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.adddoctor.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.managedoctor.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.editdoctor.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.patient.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.addpro.resources
+D:\iti_dotnet_track\c#_advanced\project2\demos\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.viewpro.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe.config
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.exe
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\bin\Debug\HospitalSystem.pdb
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.AssemblyReference.cache
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.SuggestedBindingRedirects.cache
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.adddoctor.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.addpro.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.editdoctor.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Form1.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Main.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.managedoctor.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.patient.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.Properties.Resources.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.viewpro.resources
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.GenerateResource.cache
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.csproj.CoreCompileInputs.cache
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.exe
+D:\zdownload\Desktop app iti\pro_desktop\pro_desktop\HospitalSystem\HospitalSystem\obj\Debug\HospitalSystem.pdb

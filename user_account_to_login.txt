@@ -1,0 +1,4 @@
+This is an user account to login the Hospital_System_Project to be able to see the project and use it
+
+username: yasser
+password: yasser
